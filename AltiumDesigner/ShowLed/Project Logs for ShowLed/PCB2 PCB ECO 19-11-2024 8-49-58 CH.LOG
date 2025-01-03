@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=1 Pin=2-1
+Added Pin To Net: NetName=2 Pin=2-2
+Added Pin To Net: NetName=3 Pin=2-3
+Added Pin To Net: NetName=4 Pin=2-4
+Added Pin To Net: NetName=5 Pin=2-5
+Added Pin To Net: NetName=6 Pin=2-6
+Added Pin To Net: NetName=7 Pin=2-7
+Added Pin To Net: NetName=8 Pin=2-8
+Added Pin To Net: NetName=3 Pin=7_21-1
+Added Pin To Net: NetName=8 Pin=7_21-2
+Added Pin To Net: NetName=5 Pin=7_21-3
+Added Pin To Net: NetName=4 Pin=7_21-4
+Added Pin To Net: NetName=7 Pin=7_21-5
+Added Pin To Net: NetName=6 Pin=7_21-6
+Added Pin To Net: NetName=2 Pin=7_21-9
+Added Pin To Net: NetName=1 Pin=7_21-10
+Added Pin To Net: NetName=3 Pin=7_22-1
+Added Pin To Net: NetName=8 Pin=7_22-2
+Added Pin To Net: NetName=5 Pin=7_22-3
+Added Pin To Net: NetName=4 Pin=7_22-4
+Added Pin To Net: NetName=7 Pin=7_22-5
+Added Pin To Net: NetName=6 Pin=7_22-6
+Added Pin To Net: NetName=2 Pin=7_22-9
+Added Pin To Net: NetName=1 Pin=7_22-10
+Added Room: Name=Sheet2

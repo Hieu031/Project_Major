@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=STM1-38
+Removed Pin From Net: NetName=GND Pin=STM1-39
+Removed Pin From Net: NetName=GND Pin=STM1-40
+Added Pin To Net: NetName=GND Pin=STM1-19
+Added Pin To Net: NetName=VCC Pin=STM1-20
+Added Room: Name=SheetTest

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Reset1-1
+Removed Pin From Net: NetName=RESET Pin=Reset1-2
+Removed Pin From Net: NetName=GND Pin=Rush1-1
+Removed Pin From Net: NetName=RUSH Pin=Rush1-2
+Removed Pin From Net: NetName=GND Pin=Sleep1-1
+Removed Pin From Net: NetName=SLEEP Pin=Sleep1-2
+Removed Member From Class: ClassName=Sheet1 Member=Reset1
+Removed Member From Class: ClassName=Sheet1 Member=Rush1
+Removed Member From Class: ClassName=Sheet1 Member=Sleep1
+Added Component: Designator=Reset(SW2)
+Added Component: Designator=Rush(SW2)
+Added Component: Designator=Sleep(SW2)
+Added Pin To Net: NetName=GND Pin=Reset-1
+Added Pin To Net: NetName=RESET Pin=Reset-2
+Added Pin To Net: NetName=GND Pin=Rush-1
+Added Pin To Net: NetName=RUSH Pin=Rush-2
+Added Pin To Net: NetName=GND Pin=Sleep-1
+Added Pin To Net: NetName=SLEEP Pin=Sleep-2
+Added Member To Class: ClassName=Sheet1 Member=Component Reset SW
+Added Member To Class: ClassName=Sheet1 Member=Component Rush SW
+Added Member To Class: ClassName=Sheet1 Member=Component Sleep SW
+Added Room: Name=Sheet1

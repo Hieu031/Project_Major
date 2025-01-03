@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetJP1_2 Pin=STM1-14
+Removed Pin From Net: NetName=NetJP1_1 Pin=STM1-15
+Added Pin To Net: NetName=NetJP1_1 Pin=STM1-14
+Added Pin To Net: NetName=NetJP1_2 Pin=STM1-15
+Added Member To Class: ClassName=SheetTest Member=Component L1 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L2 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L4 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L5 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L6 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L7 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L9 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L11 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component L12 LED 3mm
+Added Room: Name=SheetTest

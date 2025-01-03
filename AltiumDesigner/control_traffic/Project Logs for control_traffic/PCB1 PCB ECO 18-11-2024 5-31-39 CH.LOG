@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetG1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetG2_2 Pin=R2-2
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Removed Member From Class: ClassName=Sheet1 Member=R5
+Change Component Footprint: Designator=G1 Old Footprint=JP2-C1C New Footprint=J2-C1T
+Change Component Footprint: Designator=G2 Old Footprint=JP2-C1C New Footprint=J2-C1T
+Change Component Footprint: Designator=Y1 Old Footprint=JP2-C1C New Footprint=J2-C1T
+Change Component Footprint: Designator=Y2 Old Footprint=JP2-C1C New Footprint=J2-C1T
+Change Component Comment : Designator=G1 Old Comment=JP2 New Comment=JP2x1-2.0
+Change Component Comment : Designator=G2 Old Comment=JP2 New Comment=JP2x1-2.0
+Change Component Comment : Designator=Y1 Old Comment=JP2 New Comment=JP2x1-2.0
+Change Component Comment : Designator=Y2 Old Comment=JP2 New Comment=JP2x1-2.0
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset1
+Change Component Designator: OldDesignator=Rush NewDesignator=Rush1
+Change Component Designator: OldDesignator=Sleep NewDesignator=Sleep1
+Added Component: Designator=Re1(J2-C1T)
+Added Component: Designator=Re2(J2-C1T)
+Added Pin To Net: NetName=NetG1_2 Pin=Re1-2
+Added Pin To Net: NetName=NetG2_2 Pin=Re2-2
+Added Pin To Net: NetName=NetRe1_1 Pin=Re1-1
+Added Pin To Net: NetName=NetRe1_1 Pin=STM1-2
+Added Net: Name=NetRe1_1
+Added Pin To Net: NetName=NetRe2_1 Pin=Re2-1
+Added Pin To Net: NetName=NetRe2_1 Pin=STM1-5
+Added Net: Name=NetRe2_1
+Added Member To Class: ClassName=Sheet1 Member=Component Re1 JP2x1-2.0
+Added Member To Class: ClassName=Sheet1 Member=Component Re2 JP2x1-2.0
+Added Room: Name=Sheet1

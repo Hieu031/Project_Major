@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=9 Pin=Control1-1
+Removed Pin From Net: NetName=10 Pin=Control1-2
+Removed Pin From Net: NetName=99 Pin=Control1-3
+Removed Pin From Net: NetName=1010 Pin=Control1-4
+Removed Pin From Net: NetName=1 Pin=Led_pin1-1
+Removed Pin From Net: NetName=2 Pin=Led_pin1-2
+Removed Pin From Net: NetName=3 Pin=Led_pin1-3
+Removed Pin From Net: NetName=4 Pin=Led_pin1-4
+Removed Pin From Net: NetName=5 Pin=Led_pin1-5
+Removed Pin From Net: NetName=6 Pin=Led_pin1-6
+Removed Pin From Net: NetName=7 Pin=Led_pin1-7
+Removed Pin From Net: NetName=8 Pin=Led_pin1-8
+Added Component: Designator=JP?(JP 1x2 DT)
+Added Component: Designator=led7_1(JP 1x10 DT)
+Added Pin To Net: NetName=99 Pin=JP?-1
+Added Pin To Net: NetName=1010 Pin=JP?-2
+Added Pin To Net: NetName=3 Pin=led7_1-1
+Added Pin To Net: NetName=8 Pin=led7_1-2
+Added Pin To Net: NetName=5 Pin=led7_1-3
+Added Pin To Net: NetName=4 Pin=led7_1-4
+Added Pin To Net: NetName=7 Pin=led7_1-5
+Added Pin To Net: NetName=6 Pin=led7_1-6
+Added Pin To Net: NetName=10 Pin=led7_1-7
+Added Pin To Net: NetName=9 Pin=led7_1-8
+Added Pin To Net: NetName=2 Pin=led7_1-9
+Added Pin To Net: NetName=1 Pin=led7_1-10
+Added Member To Class: ClassName=Sheet2 Member=Component 11 LED 7 Thanh
+Added Member To Class: ClassName=Sheet2 Member=Component 12 LED 7 Thanh
+Added Member To Class: ClassName=Sheet2 Member=Component 21 LED 7 Thanh
+Added Member To Class: ClassName=Sheet2 Member=Component 22 LED 7 Thanh
+Added Member To Class: ClassName=Sheet2 Member=Component JP? JP 1x2 2.54
+Added Member To Class: ClassName=Sheet2 Member=Component led7_1 JP 1x10 2.54
+Added Room: Name=Sheet2

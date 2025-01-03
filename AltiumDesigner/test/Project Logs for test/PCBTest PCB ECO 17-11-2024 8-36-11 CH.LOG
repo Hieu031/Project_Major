@@ -1,0 +1,66 @@
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L15 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L16 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L2 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L3 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L4 Old Description=Dan New Description=Dan
+Change Component Description : Designator=LCD1 Old Description=LCD 1602 Xanh La New Description=LCD 1602 Xanh La
+Added Pin To Net: NetName=2 Pin=L1-1
+Added Pin To Net: NetName=2 Pin=L2-1
+Added Pin To Net: NetName=2 Pin=L3-1
+Added Pin To Net: NetName=2 Pin=L4-1
+Added Pin To Net: NetName=2 Pin=STM1-11
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=L1-4
+Added Pin To Net: NetName=3 Pin=L2-4
+Added Pin To Net: NetName=3 Pin=L3-4
+Added Pin To Net: NetName=3 Pin=L4-4
+Added Pin To Net: NetName=3 Pin=STM1-12
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=L1-3
+Added Pin To Net: NetName=4 Pin=L2-3
+Added Pin To Net: NetName=4 Pin=L3-3
+Added Pin To Net: NetName=4 Pin=L4-3
+Added Pin To Net: NetName=4 Pin=STM1-13
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=L1-6
+Added Pin To Net: NetName=5 Pin=L2-6
+Added Pin To Net: NetName=5 Pin=L3-6
+Added Pin To Net: NetName=5 Pin=L4-6
+Added Pin To Net: NetName=5 Pin=STM1-14
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=L1-5
+Added Pin To Net: NetName=6 Pin=L2-5
+Added Pin To Net: NetName=6 Pin=L3-5
+Added Pin To Net: NetName=6 Pin=L4-5
+Added Pin To Net: NetName=6 Pin=STM1-15
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=L1-2
+Added Pin To Net: NetName=7 Pin=L2-2
+Added Pin To Net: NetName=7 Pin=L3-2
+Added Pin To Net: NetName=7 Pin=L4-2
+Added Pin To Net: NetName=7 Pin=STM1-16
+Added Net: Name=7
+Added Pin To Net: NetName=NetL1_9 Pin=L1-9
+Added Pin To Net: NetName=NetL1_9 Pin=L2-9
+Added Pin To Net: NetName=NetL1_9 Pin=L3-9
+Added Pin To Net: NetName=NetL1_9 Pin=L4-9
+Added Pin To Net: NetName=NetL1_9 Pin=STM1-34
+Added Net: Name=NetL1_9
+Added Pin To Net: NetName=NetL1_10 Pin=L1-10
+Added Pin To Net: NetName=NetL1_10 Pin=L2-10
+Added Pin To Net: NetName=NetL1_10 Pin=L3-10
+Added Pin To Net: NetName=NetL1_10 Pin=L4-10
+Added Pin To Net: NetName=NetL1_10 Pin=STM1-33
+Added Net: Name=NetL1_10
+Added Room: Name=SheetTest

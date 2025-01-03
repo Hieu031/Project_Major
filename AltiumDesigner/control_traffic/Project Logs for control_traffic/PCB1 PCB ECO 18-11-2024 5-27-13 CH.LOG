@@ -1,0 +1,139 @@
+Added Component: Designator=1(JP10-C1T)
+Added Component: Designator=2(JP10-C1T)
+Added Component: Designator=G1(JP2-C1C)
+Added Component: Designator=G2(JP2-C1C)
+Added Component: Designator=LCD1(LCD1602)
+Added Component: Designator=R1(JP2-C1C)
+Added Component: Designator=R2(JP2-C1C)
+Added Component: Designator=R3(RES-1/2W)
+Added Component: Designator=R4(RES-1/2W)
+Added Component: Designator=R5(RES-1/2W)
+Added Component: Designator=R6(RES-1/2W)
+Added Component: Designator=R7(RES-1/2W)
+Added Component: Designator=Reset(SW1-SMD)
+Added Component: Designator=Rush(SW1-SMD)
+Added Component: Designator=Sleep(SW1-SMD)
+Added Component: Designator=STM1(STM32F103 KIT)
+Added Component: Designator=Y1(JP2-C1C)
+Added Component: Designator=Y2(JP2-C1C)
+Added Pin To Net: NetName=G1 Pin=G1-1
+Added Pin To Net: NetName=G1 Pin=STM1-27
+Added Net: Name=G1
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=Reset-1
+Added Pin To Net: NetName=GND Pin=Rush-1
+Added Pin To Net: NetName=GND Pin=Sleep-1
+Added Pin To Net: NetName=GND Pin=STM1-40
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=2-1
+Added Pin To Net: NetName=Net1_1 Pin=STM1-17
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_2 Pin=1-2
+Added Pin To Net: NetName=Net1_2 Pin=2-2
+Added Pin To Net: NetName=Net1_2 Pin=STM1-16
+Added Net: Name=Net1_2
+Added Pin To Net: NetName=Net1_3 Pin=1-3
+Added Pin To Net: NetName=Net1_3 Pin=2-3
+Added Pin To Net: NetName=Net1_3 Pin=STM1-15
+Added Net: Name=Net1_3
+Added Pin To Net: NetName=Net1_4 Pin=1-4
+Added Pin To Net: NetName=Net1_4 Pin=2-4
+Added Pin To Net: NetName=Net1_4 Pin=STM1-14
+Added Net: Name=Net1_4
+Added Pin To Net: NetName=Net1_5 Pin=1-5
+Added Pin To Net: NetName=Net1_5 Pin=2-5
+Added Pin To Net: NetName=Net1_5 Pin=STM1-13
+Added Net: Name=Net1_5
+Added Pin To Net: NetName=Net1_6 Pin=1-6
+Added Pin To Net: NetName=Net1_6 Pin=2-6
+Added Pin To Net: NetName=Net1_6 Pin=STM1-12
+Added Net: Name=Net1_6
+Added Pin To Net: NetName=Net1_7 Pin=1-7
+Added Pin To Net: NetName=Net1_7 Pin=2-7
+Added Pin To Net: NetName=Net1_7 Pin=STM1-11
+Added Net: Name=Net1_7
+Added Pin To Net: NetName=Net1_8 Pin=1-8
+Added Pin To Net: NetName=Net1_8 Pin=2-8
+Added Pin To Net: NetName=Net1_8 Pin=STM1-10
+Added Net: Name=Net1_8
+Added Pin To Net: NetName=Net1_9 Pin=1-9
+Added Pin To Net: NetName=Net1_9 Pin=STM1-9
+Added Net: Name=Net1_9
+Added Pin To Net: NetName=Net1_10 Pin=1-10
+Added Pin To Net: NetName=Net1_10 Pin=STM1-8
+Added Net: Name=Net1_10
+Added Pin To Net: NetName=Net2_9 Pin=2-9
+Added Pin To Net: NetName=Net2_9 Pin=STM1-7
+Added Net: Name=Net2_9
+Added Pin To Net: NetName=Net2_10 Pin=2-10
+Added Pin To Net: NetName=Net2_10 Pin=STM1-6
+Added Net: Name=Net2_10
+Added Pin To Net: NetName=NetG1_2 Pin=G1-2
+Added Pin To Net: NetName=NetG1_2 Pin=R1-2
+Added Pin To Net: NetName=NetG1_2 Pin=R7-1
+Added Pin To Net: NetName=NetG1_2 Pin=Y1-2
+Added Net: Name=NetG1_2
+Added Pin To Net: NetName=NetG2_1 Pin=G2-1
+Added Pin To Net: NetName=NetG2_1 Pin=STM1-3
+Added Net: Name=NetG2_1
+Added Pin To Net: NetName=NetG2_2 Pin=G2-2
+Added Pin To Net: NetName=NetG2_2 Pin=R2-2
+Added Pin To Net: NetName=NetG2_2 Pin=R6-1
+Added Pin To Net: NetName=NetG2_2 Pin=Y2-2
+Added Net: Name=NetG2_2
+Added Pin To Net: NetName=NetLCD1_4 Pin=LCD1-4
+Added Pin To Net: NetName=NetLCD1_4 Pin=STM1-34
+Added Net: Name=NetLCD1_4
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_5 Pin=STM1-33
+Added Net: Name=NetLCD1_5
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=NetLCD1_6 Pin=STM1-32
+Added Net: Name=NetLCD1_6
+Added Pin To Net: NetName=NetLCD1_11 Pin=LCD1-11
+Added Pin To Net: NetName=NetLCD1_11 Pin=STM1-31
+Added Net: Name=NetLCD1_11
+Added Pin To Net: NetName=NetLCD1_12 Pin=LCD1-12
+Added Pin To Net: NetName=NetLCD1_12 Pin=STM1-30
+Added Net: Name=NetLCD1_12
+Added Pin To Net: NetName=NetLCD1_13 Pin=LCD1-13
+Added Pin To Net: NetName=NetLCD1_13 Pin=STM1-29
+Added Net: Name=NetLCD1_13
+Added Pin To Net: NetName=NetLCD1_14 Pin=LCD1-14
+Added Pin To Net: NetName=NetLCD1_14 Pin=STM1-28
+Added Net: Name=NetLCD1_14
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=STM1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=STM1-5
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetSTM1_1 Pin=STM1-1
+Added Pin To Net: NetName=NetSTM1_1 Pin=Y1-1
+Added Net: Name=NetSTM1_1
+Added Pin To Net: NetName=NetSTM1_4 Pin=STM1-4
+Added Pin To Net: NetName=NetSTM1_4 Pin=Y2-1
+Added Net: Name=NetSTM1_4
+Added Pin To Net: NetName=RESET Pin=R5-2
+Added Pin To Net: NetName=RESET Pin=Reset-2
+Added Pin To Net: NetName=RESET Pin=STM1-37
+Added Net: Name=RESET
+Added Pin To Net: NetName=RUSH Pin=R4-2
+Added Pin To Net: NetName=RUSH Pin=Rush-2
+Added Pin To Net: NetName=RUSH Pin=STM1-26
+Added Net: Name=RUSH
+Added Pin To Net: NetName=SLEEP Pin=R3-2
+Added Pin To Net: NetName=SLEEP Pin=Sleep-2
+Added Pin To Net: NetName=SLEEP Pin=STM1-25
+Added Net: Name=SLEEP
+Added Pin To Net: NetName=VCC Pin=LCD1-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=STM1-38
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

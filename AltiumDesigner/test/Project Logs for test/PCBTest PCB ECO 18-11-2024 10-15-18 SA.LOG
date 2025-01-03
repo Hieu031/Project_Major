@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=EN3 Pin=STM1-1
+Removed Pin From Net: NetName=RS Pin=STM1-2
+Removed Pin From Net: NetName=RW Pin=STM1-3
+Removed Pin From Net: NetName=E Pin=STM1-4
+Removed Pin From Net: NetName=R2 Pin=STM1-5
+Removed Pin From Net: NetName=D4 Pin=STM1-6
+Removed Pin From Net: NetName=D5 Pin=STM1-7
+Removed Pin From Net: NetName=D6 Pin=STM1-8
+Removed Pin From Net: NetName=D7 Pin=STM1-9
+Removed Pin From Net: NetName=2 Pin=STM1-11
+Removed Pin From Net: NetName=3 Pin=STM1-12
+Removed Pin From Net: NetName=4 Pin=STM1-13
+Removed Pin From Net: NetName=5 Pin=STM1-14
+Removed Pin From Net: NetName=6 Pin=STM1-15
+Removed Pin From Net: NetName=7 Pin=STM1-16
+Removed Pin From Net: NetName=SLEEP Pin=STM1-25
+Removed Pin From Net: NetName=RUSH Pin=STM1-26
+Removed Pin From Net: NetName=NetL7_1 Pin=STM1-28
+Removed Pin From Net: NetName=NetL6_1 Pin=STM1-29
+Removed Pin From Net: NetName=NetL5_1 Pin=STM1-30
+Removed Pin From Net: NetName=G2 Pin=STM1-31
+Removed Pin From Net: NetName=Y2 Pin=STM1-32
+Removed Pin From Net: NetName=NetL1_10 Pin=STM1-33
+Removed Pin From Net: NetName=NetL1_9 Pin=STM1-34
+Removed Pin From Net: NetName=EN1 Pin=STM1-35
+Removed Pin From Net: NetName=EN2 Pin=STM1-36
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L15 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L16 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L2 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L3 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L4 Old Description=Dan New Description=Dan
+Change Component Description : Designator=LCD1 Old Description=LCD 1602 Xanh La New Description=LCD 1602 Xanh La
+Added Pin To Net: NetName=NetL1_10 Pin=STM1-1
+Added Pin To Net: NetName=NetL1_9 Pin=STM1-2
+Added Pin To Net: NetName=2 Pin=STM1-3
+Added Pin To Net: NetName=3 Pin=STM1-4
+Added Pin To Net: NetName=4 Pin=STM1-5
+Added Pin To Net: NetName=5 Pin=STM1-6
+Added Pin To Net: NetName=6 Pin=STM1-7
+Added Pin To Net: NetName=7 Pin=STM1-8
+Added Pin To Net: NetName=EN1 Pin=STM1-10
+Added Pin To Net: NetName=EN2 Pin=STM1-11
+Added Pin To Net: NetName=EN3 Pin=STM1-12
+Added Pin To Net: NetName=D4 Pin=STM1-13
+Added Pin To Net: NetName=D5 Pin=STM1-14
+Added Pin To Net: NetName=D6 Pin=STM1-15
+Added Pin To Net: NetName=D7 Pin=STM1-16
+Added Pin To Net: NetName=E Pin=STM1-17
+Added Pin To Net: NetName=RW Pin=STM1-25
+Added Pin To Net: NetName=RS Pin=STM1-26
+Added Pin To Net: NetName=SLEEP Pin=STM1-27
+Added Pin To Net: NetName=RUSH Pin=STM1-28
+Added Pin To Net: NetName=NetL7_1 Pin=STM1-29
+Added Pin To Net: NetName=NetL6_1 Pin=STM1-30
+Added Pin To Net: NetName=NetL5_1 Pin=STM1-31
+Added Pin To Net: NetName=G2 Pin=STM1-32
+Added Pin To Net: NetName=Y2 Pin=STM1-33
+Added Pin To Net: NetName=R2 Pin=STM1-34
+Change Net Name : Old Net Name=NetL1_9 New Net Name=1
+Change Net Name : Old Net Name=NetL1_10 New Net Name=0
+Added Pin To Net: NetName=EN0 Pin=L1-8
+Added Pin To Net: NetName=EN0 Pin=L4-8
+Added Pin To Net: NetName=EN0 Pin=STM1-9
+Added Net: Name=EN0
+Added Room: Name=SheetTest

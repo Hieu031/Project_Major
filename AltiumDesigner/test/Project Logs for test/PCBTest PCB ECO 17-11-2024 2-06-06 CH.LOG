@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=L7 Old Footprint=LED-3MM-GREEN New Footprint=LED-3MM-YELLOW
+Change Component Footprint: Designator=L12 Old Footprint=LED-3MM-GREEN New Footprint=LED-3MM-YELLOW
+Change Component Footprint: Designator=L9 Old Footprint=LED-3MM-RED New Footprint=LED-3MM-GREEN
+Change Component Footprint: Designator=L8 Old Footprint=LED-3MM-RED New Footprint=LED-3MM-YELLOW
+Change Component Footprint: Designator=L10 Old Footprint=LED-3MM-YELLOW New Footprint=LED-3MM-GREEN
+Change Component Footprint: Designator=L6 Old Footprint=LED-3MM-YELLOW New Footprint=LED-3MM-RED
+Change Component Footprint: Designator=L11 Old Footprint=LED-3MM-YELLOW New Footprint=LED-3MM-RED
+Change Class Name : Old Net Name=Sheet2 New Net Name=SheetTest
+Added Member To Class: ClassName=SheetTest Member=Component L1 LED 7 Thanh
+Added Member To Class: ClassName=SheetTest Member=Component L3 LED 7 Thanh
+Added Member To Class: ClassName=SheetTest Member=Component L4 LED 7 Thanh
+Added Member To Class: ClassName=SheetTest Member=Component SW1 SW
+Added Room: Name=SheetTest

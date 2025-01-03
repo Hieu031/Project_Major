@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=JP3 NewDesignator=led_pin
+Change Component Designator: OldDesignator=JP6 NewDesignator=Control7Seg
+Added Room: Name=Sheet_Con

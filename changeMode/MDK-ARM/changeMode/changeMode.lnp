@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"changemode\startup_stm32f103x6.o"
+"changemode\lcd.o"
+"changemode\main.o"
+"changemode\stm32f1xx_it.o"
+"changemode\stm32f1xx_hal_msp.o"
+"changemode\stm32f1xx_hal_gpio_ex.o"
+"changemode\stm32f1xx_hal_i2c.o"
+"changemode\stm32f1xx_hal.o"
+"changemode\stm32f1xx_hal_rcc.o"
+"changemode\stm32f1xx_hal_rcc_ex.o"
+"changemode\stm32f1xx_hal_gpio.o"
+"changemode\stm32f1xx_hal_dma.o"
+"changemode\stm32f1xx_hal_cortex.o"
+"changemode\stm32f1xx_hal_pwr.o"
+"changemode\stm32f1xx_hal_flash.o"
+"changemode\stm32f1xx_hal_flash_ex.o"
+"changemode\stm32f1xx_hal_exti.o"
+"changemode\stm32f1xx_hal_tim.o"
+"changemode\stm32f1xx_hal_tim_ex.o"
+"changemode\system_stm32f1xx.o"
+--strict --scatter "changeMode\changeMode.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "changeMode.map" -o changeMode\changeMode.axf

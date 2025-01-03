@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=GND Pin=L9-2
+Removed Pin From Net: NetName=GND Pin=L10-2
+Removed Pin From Net: NetName=GND Pin=L13-2
+Removed Pin From Net: NetName=GND Pin=L16-2
+Change Component Designator: OldDesignator=L6 NewDesignator=L8
+Change Component Designator: OldDesignator=L7 NewDesignator=L6
+Change Component Designator: OldDesignator=L8 NewDesignator=L10
+Change Component Designator: OldDesignator=L9 NewDesignator=L7
+Change Component Designator: OldDesignator=L10 NewDesignator=L12
+Change Component Designator: OldDesignator=L11 NewDesignator=L14
+Change Component Designator: OldDesignator=L12 NewDesignator=L15
+Change Component Designator: OldDesignator=L13 NewDesignator=L16
+Change Component Designator: OldDesignator=L14 NewDesignator=L9
+Change Component Designator: OldDesignator=L15 NewDesignator=L11
+Change Component Designator: OldDesignator=L16 NewDesignator=L13
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset1
+Change Component Designator: OldDesignator=Rush NewDesignator=Rush1
+Change Component Designator: OldDesignator=Sleep NewDesignator=Sleep1
+Added Component: Designator=R4(RES-1/2W)
+Added Component: Designator=R5(RES-1/2W)
+Added Component: Designator=R6(RES-1/2W)
+Added Component: Designator=R7(RES-1/2W)
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Change Net Name : Old Net Name=NetL7_1 New Net Name=NetL6_1
+Change Net Name : Old Net Name=NetL9_1 New Net Name=NetL7_1
+Added Pin To Net: NetName=NetL7_2 Pin=L7-2
+Added Pin To Net: NetName=NetL7_2 Pin=R4-2
+Added Net: Name=NetL7_2
+Added Pin To Net: NetName=NetL12_2 Pin=L12-2
+Added Pin To Net: NetName=NetL12_2 Pin=R5-2
+Added Net: Name=NetL12_2
+Added Pin To Net: NetName=NetL13_2 Pin=L13-2
+Added Pin To Net: NetName=NetL13_2 Pin=R6-2
+Added Net: Name=NetL13_2
+Added Pin To Net: NetName=NetL16_2 Pin=L16-2
+Added Pin To Net: NetName=NetL16_2 Pin=R7-2
+Added Net: Name=NetL16_2
+Added Member To Class: ClassName=SheetTest Member=Component R4 Res
+Added Member To Class: ClassName=SheetTest Member=Component R5 Res
+Added Member To Class: ClassName=SheetTest Member=Component R6 Res
+Added Member To Class: ClassName=SheetTest Member=Component R7 Res
+Added Room: Name=SheetTest

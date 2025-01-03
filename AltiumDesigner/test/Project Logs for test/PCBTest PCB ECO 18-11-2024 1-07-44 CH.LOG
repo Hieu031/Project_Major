@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=R2 Pin=L13-1
+Removed Pin From Net: NetName=RESET Pin=R1-2
+Removed Pin From Net: NetName=SLEEP Pin=R2-2
+Removed Pin From Net: NetName=RUSH Pin=R3-2
+Removed Pin From Net: NetName=RESET Pin=Reset1-2
+Removed Pin From Net: NetName=RUSH Pin=Rush1-2
+Removed Pin From Net: NetName=SLEEP Pin=Sleep1-2
+Removed Pin From Net: NetName=0 Pin=STM1-1
+Removed Pin From Net: NetName=1 Pin=STM1-2
+Removed Pin From Net: NetName=2 Pin=STM1-3
+Removed Pin From Net: NetName=3 Pin=STM1-4
+Removed Pin From Net: NetName=4 Pin=STM1-5
+Removed Pin From Net: NetName=5 Pin=STM1-6
+Removed Pin From Net: NetName=6 Pin=STM1-7
+Removed Pin From Net: NetName=7 Pin=STM1-8
+Removed Pin From Net: NetName=D4 Pin=STM1-13
+Removed Pin From Net: NetName=D5 Pin=STM1-14
+Removed Pin From Net: NetName=D6 Pin=STM1-15
+Removed Pin From Net: NetName=D7 Pin=STM1-16
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L13 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L14 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L15 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L16 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L2 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L3 Old Description=Dan New Description=Dan
+Change Component Description : Designator=L4 Old Description=Dan New Description=Dan
+Change Component Description : Designator=LCD1 Old Description=LCD 1602 Xanh La New Description=LCD 1602 Xanh La
+Added Pin To Net: NetName=G2 Pin=L13-1
+Added Pin To Net: NetName=SLEEP Pin=R1-2
+Added Pin To Net: NetName=RUSH Pin=R2-2
+Added Pin To Net: NetName=RESET Pin=R3-2
+Added Pin To Net: NetName=SLEEP Pin=Reset1-2
+Added Pin To Net: NetName=RESET Pin=Rush1-2
+Added Pin To Net: NetName=RUSH Pin=Sleep1-2
+Added Pin To Net: NetName=7 Pin=STM1-1
+Added Pin To Net: NetName=6 Pin=STM1-2
+Added Pin To Net: NetName=5 Pin=STM1-3
+Added Pin To Net: NetName=4 Pin=STM1-4
+Added Pin To Net: NetName=3 Pin=STM1-5
+Added Pin To Net: NetName=2 Pin=STM1-6
+Added Pin To Net: NetName=1 Pin=STM1-7
+Added Pin To Net: NetName=0 Pin=STM1-8
+Added Pin To Net: NetName=D7 Pin=STM1-13
+Added Pin To Net: NetName=D6 Pin=STM1-14
+Added Pin To Net: NetName=D4 Pin=STM1-15
+Added Pin To Net: NetName=D5 Pin=STM1-16
+Added Room: Name=SheetTest

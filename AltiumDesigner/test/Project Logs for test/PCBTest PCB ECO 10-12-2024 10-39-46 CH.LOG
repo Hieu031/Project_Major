@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C5-3
+Added Pin To Net: NetName=GND Pin=C5-4
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=STM1-15
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=STM1-14
+Added Net: Name=NetC5_2
+Added Member To Class: ClassName=SheetTest Member=Component R4 Res
+Added Member To Class: ClassName=SheetTest Member=Component R5 Res
+Added Member To Class: ClassName=SheetTest Member=Component R7 Res
+Added Member To Class: ClassName=SheetTest Member=Component R10 Res
+Added Member To Class: ClassName=SheetTest Member=Component Reset SW
+Added Member To Class: ClassName=SheetTest Member=Component Rush SW
+Added Member To Class: ClassName=SheetTest Member=Component Sleep SW
+Added Member To Class: ClassName=SheetTest Member=Component STM1 KIT STM32F103C8T6
+Added Room: Name=SheetTest

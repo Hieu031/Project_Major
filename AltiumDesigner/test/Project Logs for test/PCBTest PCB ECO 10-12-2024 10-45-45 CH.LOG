@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=7 Pin=C1-1
+Removed Pin From Net: NetName=6 Pin=C1-2
+Removed Pin From Net: NetName=5 Pin=C1-3
+Removed Pin From Net: NetName=4 Pin=C1-4
+Removed Pin From Net: NetName=3 Pin=C1-5
+Removed Pin From Net: NetName=2 Pin=C1-6
+Removed Pin From Net: NetName=1 Pin=C1-7
+Removed Pin From Net: NetName=0 Pin=C1-8
+Removed Pin From Net: NetName=EN3 Pin=C1-9
+Removed Pin From Net: NetName=EN2 Pin=C1-10
+Removed Pin From Net: NetName=7 Pin=C2-1
+Removed Pin From Net: NetName=6 Pin=C2-2
+Removed Pin From Net: NetName=5 Pin=C2-3
+Removed Pin From Net: NetName=4 Pin=C2-4
+Removed Pin From Net: NetName=3 Pin=C2-5
+Removed Pin From Net: NetName=2 Pin=C2-6
+Removed Pin From Net: NetName=1 Pin=C2-7
+Removed Pin From Net: NetName=0 Pin=C2-8
+Removed Pin From Net: NetName=EN3 Pin=C2-9
+Removed Pin From Net: NetName=EN2 Pin=C2-10
+Removed Pin From Net: NetName=7 Pin=C3-1
+Removed Pin From Net: NetName=5 Pin=C3-2
+Removed Pin From Net: NetName=5 Pin=C3-3
+Removed Pin From Net: NetName=4 Pin=C3-4
+Removed Pin From Net: NetName=3 Pin=C3-5
+Removed Pin From Net: NetName=2 Pin=C3-6
+Removed Pin From Net: NetName=1 Pin=C3-7
+Removed Pin From Net: NetName=0 Pin=C3-8
+Removed Pin From Net: NetName=EN1 Pin=C3-9
+Removed Pin From Net: NetName=EN0 Pin=C3-10
+Removed Pin From Net: NetName=7 Pin=C4-1
+Removed Pin From Net: NetName=6 Pin=C4-2
+Removed Pin From Net: NetName=5 Pin=C4-3
+Removed Pin From Net: NetName=4 Pin=C4-4
+Removed Pin From Net: NetName=3 Pin=C4-5
+Removed Pin From Net: NetName=2 Pin=C4-6
+Removed Pin From Net: NetName=1 Pin=C4-7
+Removed Pin From Net: NetName=0 Pin=C4-8
+Removed Pin From Net: NetName=EN1 Pin=C4-9
+Removed Pin From Net: NetName=EN0 Pin=C4-10
+Removed Pin From Net: NetName=VCC Pin=C5-3
+Removed Pin From Net: NetName=GND Pin=C5-4
+Removed Pin From Net: NetName=RUSH Pin=STM1-16
+Removed Pin From Net: NetName=SLEEP Pin=STM1-17
+Removed Member From Class: ClassName=SheetTest Member=C1
+Removed Member From Class: ClassName=SheetTest Member=C2
+Removed Member From Class: ClassName=SheetTest Member=C3
+Removed Member From Class: ClassName=SheetTest Member=C4
+Removed Member From Class: ClassName=SheetTest Member=C5
+Change Component Designator: OldDesignator=Reset NewDesignator=Reset1
+Change Component Designator: OldDesignator=Rush NewDesignator=Rush1
+Change Component Designator: OldDesignator=Sleep NewDesignator=Sleep1
+Added Component: Designator=JP1(JP 1x4 DT)
+Added Component: Designator=Led1(JP 1x10 DT)
+Added Component: Designator=Led2(JP 1x10 DT)
+Added Component: Designator=Led3(JP 1x10 DT)
+Added Component: Designator=Led4(JP 1x10 DT)
+Added Pin To Net: NetName=VCC Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=JP1-4
+Added Pin To Net: NetName=7 Pin=Led1-1
+Added Pin To Net: NetName=6 Pin=Led1-2
+Added Pin To Net: NetName=5 Pin=Led1-3
+Added Pin To Net: NetName=4 Pin=Led1-4
+Added Pin To Net: NetName=3 Pin=Led1-5
+Added Pin To Net: NetName=2 Pin=Led1-6
+Added Pin To Net: NetName=1 Pin=Led1-7
+Added Pin To Net: NetName=0 Pin=Led1-8
+Added Pin To Net: NetName=EN3 Pin=Led1-9
+Added Pin To Net: NetName=EN2 Pin=Led1-10
+Added Pin To Net: NetName=7 Pin=Led2-1
+Added Pin To Net: NetName=6 Pin=Led2-2
+Added Pin To Net: NetName=5 Pin=Led2-3
+Added Pin To Net: NetName=4 Pin=Led2-4
+Added Pin To Net: NetName=3 Pin=Led2-5
+Added Pin To Net: NetName=2 Pin=Led2-6
+Added Pin To Net: NetName=1 Pin=Led2-7
+Added Pin To Net: NetName=0 Pin=Led2-8
+Added Pin To Net: NetName=EN3 Pin=Led2-9
+Added Pin To Net: NetName=EN2 Pin=Led2-10
+Added Pin To Net: NetName=7 Pin=Led3-1
+Added Pin To Net: NetName=5 Pin=Led3-2
+Added Pin To Net: NetName=5 Pin=Led3-3
+Added Pin To Net: NetName=4 Pin=Led3-4
+Added Pin To Net: NetName=3 Pin=Led3-5
+Added Pin To Net: NetName=2 Pin=Led3-6
+Added Pin To Net: NetName=1 Pin=Led3-7
+Added Pin To Net: NetName=0 Pin=Led3-8
+Added Pin To Net: NetName=EN1 Pin=Led3-9
+Added Pin To Net: NetName=EN0 Pin=Led3-10
+Added Pin To Net: NetName=7 Pin=Led4-1
+Added Pin To Net: NetName=6 Pin=Led4-2
+Added Pin To Net: NetName=5 Pin=Led4-3
+Added Pin To Net: NetName=4 Pin=Led4-4
+Added Pin To Net: NetName=3 Pin=Led4-5
+Added Pin To Net: NetName=2 Pin=Led4-6
+Added Pin To Net: NetName=1 Pin=Led4-7
+Added Pin To Net: NetName=0 Pin=Led4-8
+Added Pin To Net: NetName=EN1 Pin=Led4-9
+Added Pin To Net: NetName=EN0 Pin=Led4-10
+Added Pin To Net: NetName=SLEEP Pin=STM1-25
+Added Pin To Net: NetName=RUSH Pin=STM1-26
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_1 Pin=STM1-15
+Added Net: Name=NetJP1_1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=STM1-14
+Added Net: Name=NetJP1_2
+Added Member To Class: ClassName=SheetTest Member=Component JP1 JP 1x4 2.54
+Added Member To Class: ClassName=SheetTest Member=Component Led1 JP 1x10 2.54
+Added Member To Class: ClassName=SheetTest Member=Component Led2 JP 1x10 2.54
+Added Member To Class: ClassName=SheetTest Member=Component Led3 JP 1x10 2.54
+Added Member To Class: ClassName=SheetTest Member=Component Led4 JP 1x10 2.54
+Added Room: Name=SheetTest

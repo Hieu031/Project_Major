@@ -1,0 +1,72 @@
+Added Component: Designator=7Seg11(JP 1x10 DT)
+Added Component: Designator=7Seg12(JP 1x10 DT)
+Added Component: Designator=7Seg21(JP 1x10 DT)
+Added Component: Designator=7Seg22(JP 1x10 DT)
+Added Component: Designator=JP3(JP 1x8 DT)
+Added Component: Designator=JP6(JP 1x4 DT)
+Added Pin To Net: NetName=Net7Seg11_1 Pin=7Seg11-1
+Added Pin To Net: NetName=Net7Seg11_1 Pin=7Seg12-1
+Added Pin To Net: NetName=Net7Seg11_1 Pin=7Seg21-1
+Added Pin To Net: NetName=Net7Seg11_1 Pin=7Seg22-1
+Added Pin To Net: NetName=Net7Seg11_1 Pin=JP3-1
+Added Net: Name=Net7Seg11_1
+Added Pin To Net: NetName=Net7Seg11_2 Pin=7Seg11-2
+Added Pin To Net: NetName=Net7Seg11_2 Pin=7Seg12-2
+Added Pin To Net: NetName=Net7Seg11_2 Pin=7Seg21-2
+Added Pin To Net: NetName=Net7Seg11_2 Pin=7Seg22-2
+Added Pin To Net: NetName=Net7Seg11_2 Pin=JP3-2
+Added Net: Name=Net7Seg11_2
+Added Pin To Net: NetName=Net7Seg11_3 Pin=7Seg11-3
+Added Pin To Net: NetName=Net7Seg11_3 Pin=7Seg12-3
+Added Pin To Net: NetName=Net7Seg11_3 Pin=7Seg21-3
+Added Pin To Net: NetName=Net7Seg11_3 Pin=7Seg22-3
+Added Pin To Net: NetName=Net7Seg11_3 Pin=JP3-3
+Added Net: Name=Net7Seg11_3
+Added Pin To Net: NetName=Net7Seg11_4 Pin=7Seg11-4
+Added Pin To Net: NetName=Net7Seg11_4 Pin=7Seg12-4
+Added Pin To Net: NetName=Net7Seg11_4 Pin=7Seg21-4
+Added Pin To Net: NetName=Net7Seg11_4 Pin=7Seg22-4
+Added Pin To Net: NetName=Net7Seg11_4 Pin=JP3-4
+Added Net: Name=Net7Seg11_4
+Added Pin To Net: NetName=Net7Seg11_5 Pin=7Seg11-5
+Added Pin To Net: NetName=Net7Seg11_5 Pin=7Seg12-5
+Added Pin To Net: NetName=Net7Seg11_5 Pin=7Seg21-5
+Added Pin To Net: NetName=Net7Seg11_5 Pin=7Seg22-5
+Added Pin To Net: NetName=Net7Seg11_5 Pin=JP3-5
+Added Net: Name=Net7Seg11_5
+Added Pin To Net: NetName=Net7Seg11_6 Pin=7Seg11-6
+Added Pin To Net: NetName=Net7Seg11_6 Pin=7Seg12-6
+Added Pin To Net: NetName=Net7Seg11_6 Pin=7Seg21-6
+Added Pin To Net: NetName=Net7Seg11_6 Pin=7Seg22-6
+Added Pin To Net: NetName=Net7Seg11_6 Pin=JP3-6
+Added Net: Name=Net7Seg11_6
+Added Pin To Net: NetName=Net7Seg11_7 Pin=7Seg11-7
+Added Pin To Net: NetName=Net7Seg11_7 Pin=7Seg12-7
+Added Pin To Net: NetName=Net7Seg11_7 Pin=7Seg21-7
+Added Pin To Net: NetName=Net7Seg11_7 Pin=7Seg22-7
+Added Pin To Net: NetName=Net7Seg11_7 Pin=JP3-7
+Added Net: Name=Net7Seg11_7
+Added Pin To Net: NetName=Net7Seg11_8 Pin=7Seg11-8
+Added Pin To Net: NetName=Net7Seg11_8 Pin=7Seg12-8
+Added Pin To Net: NetName=Net7Seg11_8 Pin=7Seg21-8
+Added Pin To Net: NetName=Net7Seg11_8 Pin=7Seg22-8
+Added Pin To Net: NetName=Net7Seg11_8 Pin=JP3-8
+Added Net: Name=Net7Seg11_8
+Added Pin To Net: NetName=Net7Seg11_9 Pin=7Seg11-9
+Added Pin To Net: NetName=Net7Seg11_9 Pin=7Seg12-9
+Added Pin To Net: NetName=Net7Seg11_9 Pin=JP6-1
+Added Net: Name=Net7Seg11_9
+Added Pin To Net: NetName=Net7Seg11_10 Pin=7Seg11-10
+Added Pin To Net: NetName=Net7Seg11_10 Pin=7Seg12-10
+Added Pin To Net: NetName=Net7Seg11_10 Pin=JP6-2
+Added Net: Name=Net7Seg11_10
+Added Pin To Net: NetName=Net7Seg21_9 Pin=7Seg21-9
+Added Pin To Net: NetName=Net7Seg21_9 Pin=7Seg22-9
+Added Pin To Net: NetName=Net7Seg21_9 Pin=JP6-3
+Added Net: Name=Net7Seg21_9
+Added Pin To Net: NetName=Net7Seg21_10 Pin=7Seg21-10
+Added Pin To Net: NetName=Net7Seg21_10 Pin=7Seg22-10
+Added Pin To Net: NetName=Net7Seg21_10 Pin=JP6-4
+Added Net: Name=Net7Seg21_10
+Added Class: Name=Sheet_Con
+Added Room: Name=Sheet_Con

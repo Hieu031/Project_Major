@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetJP1_1 Pin=STM1-13
+Change Component Designator: OldDesignator=G1 NewDesignator=L9
+Change Component Designator: OldDesignator=G2 NewDesignator=L8
+Change Component Designator: OldDesignator=G3 NewDesignator=L12
+Change Component Designator: OldDesignator=G4 NewDesignator=L2
+Change Component Designator: OldDesignator=G4 NewDesignator=L3
+Change Component Designator: OldDesignator=R1 NewDesignator=L5
+Change Component Designator: OldDesignator=R2 NewDesignator=L4
+Change Component Designator: OldDesignator=R3 NewDesignator=L10
+Change Component Designator: OldDesignator=R4 NewDesignator=L1
+Change Component Designator: OldDesignator=Y1 NewDesignator=L7
+Change Component Designator: OldDesignator=Y2 NewDesignator=L6
+Change Component Designator: OldDesignator=Y3 NewDesignator=L11
+Change Component Description : Designator=L9 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L8 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L12 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=JP1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=Led1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=Led2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=Led3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=Led4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L7 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L6 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L11 Old Description=C?m New Description=C?m
+Added Pin To Net: NetName=NetJP1_1 Pin=STM1-15
+Added Member To Class: ClassName=SheetTest Member=Component L3 LED 3mm
+Added Member To Class: ClassName=SheetTest Member=Component R1 Res
+Added Member To Class: ClassName=SheetTest Member=Component R2 Res
+Added Member To Class: ClassName=SheetTest Member=Component R3 Res
+Added Member To Class: ClassName=SheetTest Member=Component R4 Res
+Added Member To Class: ClassName=SheetTest Member=Component R6 Res
+Added Member To Class: ClassName=SheetTest Member=Component R14 Res
+Added Room: Name=SheetTest
